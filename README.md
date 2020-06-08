@@ -1,6 +1,6 @@
 # Operations on Polyhedra with Fourier-Motzkin Elimination
 ## About
-This is a python implementation of some applications of the Fourier-Motzkin elimination. This was a programming exercise on the module 'Introduction to Linear and Combinatorial Optimization (ADM I)' held by Prof. Dr. Martin Skutella at TU Berlin in Wintersemester 2019-2020. I did this project together with a partner. We did this project using the pair programming paradigm, where i mainly think about the implementation and the debugging while my partner mostly think about the mathematical interpretation.
+This is a python implementation of some operations on polyhedra based on the Fourier-Motzkin elimination. This was a programming exercise on the module 'Introduction to Linear and Combinatorial Optimization (ADM I)' held by Prof. Dr. Martin Skutella at TU Berlin in Wintersemester 2019-2020. I did this project together with a partner. We did this project using the pair programming paradigm, where i mainly think about the implementation and the debugging while my partner mostly think about the mathematical interpretation.
 
 ## Short Description
 In this project, we had to implement 4 routines:
